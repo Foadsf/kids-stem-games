@@ -5,10 +5,10 @@ five-year-old growing up with three languages, to play on a 2014 phone and a tab
 shared here so other children can play, learn and enjoy them too.
 
 <p>
-<img src="robot-path/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="200" alt="Robot Path: the robot reaches the star, with confetti">
-<img src="pattern-machine/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="200" alt="Pattern Machine: circle, star, circle, star, circle, question mark">
-<img src="kangaroo-hops/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="200" alt="Kangaroo Hops: the kangaroo hops along numbered stones, +2">
-<img src="balance-scale/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="200" alt="Balance Scale: three apples on one pan, one on the other">
+<img src="robot-path/app/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="200" alt="Robot Path: the robot reaches the star, with confetti">
+<img src="pattern-machine/app/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="200" alt="Pattern Machine: circle, star, circle, star, circle, question mark">
+<img src="kangaroo-hops/app/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="200" alt="Kangaroo Hops: the kangaroo hops along numbered stones, +2">
+<img src="balance-scale/app/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="200" alt="Balance Scale: three apples on one pan, one on the other">
 </p>
 
 | Game | What she does | What it trains |

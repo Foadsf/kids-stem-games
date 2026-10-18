@@ -1,0 +1,25 @@
+Categories:
+  - Educational Game
+License: GPL-3.0-only
+AuthorName: Foad S. Farimani
+SourceCode: https://github.com/Foadsf/kids-stem-games/tree/HEAD/kangaroo-hops
+IssueTracker: https://github.com/Foadsf/kids-stem-games/issues
+
+AutoName: Kangaroo Hops
+
+RepoType: git
+Repo: https://github.com/Foadsf/kids-stem-games.git
+
+Builds:
+  - versionName: 0.1.0
+    versionCode: 1
+    commit: b86ed862ad0752c4833eeff30a4f3be230c68a0a
+    subdir: kangaroo-hops/app
+    gradle:
+      - yes
+    prebuild: sdkmanager "platforms;android-35" "build-tools;37.0.0"
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags ^kangaroo-hops-v\d+\.\d+\.\d+$
+CurrentVersion: 0.1.0
+CurrentVersionCode: 1
